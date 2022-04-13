@@ -1,8 +1,6 @@
 # WordPress Settings Sandbox
 
-* [Tom McFarlin](http://tommcfarlin.com)
-* [Project Page](http://tommcfarlin.com/wordpress-settings-api-example/)
-* *License.* GPL
+A simple WordPress Theme used to demonstrate the WordPress Settings API in OOP.
 
 ## Summary
 
@@ -16,10 +14,6 @@ A simple WordPress Theme used to demonstrate the WordPress Settings API and rela
 6. [Menu Pages](http://wp.tutsplus.com/tutorials/the-complete-guide-to-the-wordpress-settings-api-part-6-menu-pages/).
 7. [Validation, Sanitization, and Input I](http://wp.tutsplus.com/tutorials/the-complete-guide-to-the-wordpress-settings-api-part-7-validation-sanitisation-and-input-i/)
 8. [Validation, Sanitization, and Input II](http://wp.tutsplus.com/tutorials/the-complete-guide-to-the-wordpress-settings-api-part-8-validation-sanitisation-and-input-ii/)
-
-## Checkout
-
-You can always checkout the latest version at [this URL](https://github.com/tommcfarlin/WordPress-Settings-Sandbox).
 
 ## Install
 
@@ -35,7 +29,16 @@ If you're interested in downloading and installing this theme:
 
 ## Changelog
 
-_1.3 (Febuary 3rd, 2013)_
+_1.4 (April 13th, 2013)_
+* Changed into OOP.
+* Deleted functions.php
+
+_1.3 (April 12th, 2013)_
+*  Forked WordPress Settings Sandbox
+
+[Project Page](http://tommcfarlin.com/wordpress-settings-api-example/) - *License.* GPL
+
+_1.3 (February 3rd, 2013)_
 
 * Fixed a minor typo that was causing a PHP memory time out error for one of the options.
 
